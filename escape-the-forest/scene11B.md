@@ -1,4 +1,4 @@
-# 💧 Scene 10: Follow the River
+# 🩹 Scene 10: Make Bandages
 
 You weighed the descion and came to the conclusion that crossing the river was too risky. The water was running too fast and the rocks were too slippery. As you trek foreward you begin to feel hunger and thirst. You think about drinking the river water but it looks dirty. You should find a fresh spring. There could be sources of food there too.
   
