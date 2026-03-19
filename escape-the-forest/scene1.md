@@ -6,7 +6,7 @@ The only sounds you hear are the rustling of the leaves and scattered chirps fro
 
 To your right you can just hear the sound of running water. Could that lead the way out of here?
 
-As you pass through a grouping of trees, you can just make out a rocky outcropping ahead of you. Maybe you can climb the cliffs to get a better view of your surroundings?
+But as you pass through a grouping of trees, you can just make out a rocky outcropping ahead of you. Maybe you can climb the cliffs to get a better view of your surroundings?
 
 Which way do you go?
 
