@@ -8,6 +8,6 @@ You dig through the pack, finding empty ration packs and a drained waterskin. Bu
 
 No sooner have you rounded the corner than you hear a low and angry growl to your left. You've just unwittingly stumbled onto a brown bear's turf, and she does not seem happy to see you. You need to do act fast or you could be her next meal!
 
-- 😋 [Throw the last of your rations to distract the bear!](./scene6B)
-- 🔫 [Fire the flare gun at the bear!](./scene6A)
+- 😋 [Throw the last of your rations to distract the bear!](./scene5B)
+- 🔫 [Fire the flare gun at the bear!](./scene5A)
 
