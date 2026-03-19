@@ -8,4 +8,4 @@ You throw the ration pack over the bear and back into her cave. She sniffs the a
 
 Thank goodness you saved the Lemon Pepper Tuna meal for last!
 
-- 🚩[Carefully make your way towards the top of the plateau](./scene6A)
+- 🚩[Carefully make your way towards the top of the plateau](./scene6B)
