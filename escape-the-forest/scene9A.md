@@ -1,4 +1,4 @@
-# 🌳 Scene 9: Welcome to the River
+# 🌊 Scene 9: Welcome to the River
 
 As the trail drops, you start to hear the river before you see it. Then it’s there—moving steady, cutting through the land. The air feels cooler by the water, and you pause for a second, deciding whether to follow it or just cross the river.
 
@@ -7,5 +7,5 @@ You stand there a moment, watching the current push past the rocks, steady but a
 
 Which way do you go?
 
-- ⛰ [Follow the river](./scene10A)
-- 🌊 [Cross the river](./scene10B)
+- 🌊 [Follow the river](./scene10A)
+- 🧗‍♀️ [Cross the river](./scene10B)
