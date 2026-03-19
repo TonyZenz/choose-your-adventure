@@ -6,4 +6,4 @@ You wait for what feels like an eternity, fighting starvation and exhaustion to 
 
 **Congrats! You have escaped the forest!**
 
-- 🌳 [Start a new adventure?](./scene1.md)
+- 🌳 [Start a new adventure?](./_start-here.md)
