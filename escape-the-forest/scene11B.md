@@ -7,6 +7,6 @@ As you keep walking to locate fresh water and food, the hunger and thirst worsen
 
 Do you eat the berries and drink the water, just drink the water or keep looking for a cleaner pond with better food.
 
-- 🍓💧 [Eat the Berries and Drink the Water](./scene11D) 
-- 💧 [Just Drink the Water](./scene11E) 
-- 🚶‍♂️ [Keep Looking](./scene11F) 
+- 🍓💧 [Eat the Berries and Drink the Water](./scene11D.md) 
+- 💧 [Just Drink the Water](./scene11E.md) 
+- 🚶‍♂️ [Keep Looking](./scene11F.md) 

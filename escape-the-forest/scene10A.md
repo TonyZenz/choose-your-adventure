@@ -9,6 +9,6 @@ Do you want to try to find water to help your fatique, find something to use as 
 
 
 
-- 💧  [Find Water](./scene11A)
-- 🩹 [Make Bandages](./scene11B)
-- 😴 [Take a Nap](./scene11C)
+- 💧  [Find Water](./scene11A.md)
+- 🩹 [Make Bandages](./scene11B.md)
+- 😴 [Take a Nap](./scene11C.md)
