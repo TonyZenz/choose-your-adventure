@@ -10,5 +10,5 @@ But as you pass through a grouping of trees, you can just make out a rocky outcr
 
 Which way do you go?
 
-- ⛰ [Head towards the cliffs](./scene2A)
-- 🌊 [Follow the river instead](./scene9A)
+- ⛰ [Head towards the cliffs](./scene2A.md)
+- 🌊 [Follow the river instead](./scene9A.md)

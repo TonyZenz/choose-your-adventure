@@ -8,6 +8,6 @@ Across the gap, the path continues higher. Above the gap, you spot a cluster of 
 
 Grab the roots to support you or make a leap of faith? Either way you'll need that bag if you want to make it out of here.
 
-- 🌱 [Hang onto the roots](./scene4B)
-- 🦘 [Jump across the gap](./scene4A)
+- 🌱 [Hang onto the roots](./scene4B.md)
+- 🦘 [Jump across the gap](./scene4A.md)
 

@@ -4,6 +4,6 @@ You venture carefully into the winding tunnel system under the mountain. The onl
 
 Following along the walls of the cave, you come upon an opening to another section of cave. Then another. And another! You have a few options on where to go from here. But there's not much fuel left in your lamp, so you better decide fast.
 
-- ⬅ [Turn Left](./scene5E)
-- ⬆ [Straight Ahead](./scene6D)
-- ➡ [Turn Right](./scene5E)
+- ⬅ [Turn Left](./scene5E.md)
+- ⬆ [Straight Ahead](./scene6D.md)
+- ➡ [Turn Right](./scene5E.md)

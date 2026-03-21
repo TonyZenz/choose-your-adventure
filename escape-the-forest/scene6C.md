@@ -4,5 +4,5 @@ The air in this chamber is thick and stagnant, smelling of damp earth and the sh
 
 Which way do you go?
 
-- ➡ [Turn Right](./scene7A)
-- ⬅ [Turn Left](./scene5E)
+- ➡ [Turn Right](./scene7A.md)
+- ⬅ [Turn Left](./scene5E.md)

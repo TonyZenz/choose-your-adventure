@@ -28,4 +28,4 @@ Some sort of map?
 
 You glance towards the menacing cave entrance and suppose you'll find out one way or another. Light your lamp and venture forth.
 
-- 😥 [Enter the Spooky Cave](./scene5F)
+- 😥 [Enter the Spooky Cave](./scene5F.md)

@@ -6,5 +6,5 @@ As you get closer to the entrance, you can see that the tunnel stretches deep in
 
 You could stop and look for something to help you make it through the tunnels. Then again, you *are* already low on supplies, and wasting any time could be dangerous.
 
-- 🕯 [Stop to look for supplies](./scene4D)
-- 😤 [No time to waste! Blindly press forward](./scene4C)
+- 🕯 [Stop to look for supplies](./scene4D.md)
+- 😤 [No time to waste! Blindly press forward](./scene4C.md)

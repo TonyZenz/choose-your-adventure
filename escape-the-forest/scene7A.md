@@ -4,5 +4,5 @@ The stone walls here are slick with a black, oily moisture that seems to absorb 
 
 Which way do you go?
 
-- ⬇ [Turn Back](./scene6C)
-- ➡ [Go Right](./scene7B)
+- ⬇ [Turn Back](./scene6C.md)
+- ➡ [Go Right](./scene7B.md)

@@ -6,4 +6,4 @@ The brown bear inches closer to you, snarling all the while. You back up as far 
 
 You steady yourself and aim the flare gun at the bear with trembling hands. You take a deep breath and squeeze the trigger.
 
-- 🐻 [And...](./scene6A)
+- 🐻 [And...](./scene6A.md)

@@ -6,5 +6,5 @@ You come upon another split in the path.
 
 Which way do you go?
 
-- ⬅ [Go Left](./scene6C)
-- ➡ [Go Right](./scene5E)
+- ⬅ [Go Left](./scene6C.md)
+- ➡ [Go Right](./scene5E.md)

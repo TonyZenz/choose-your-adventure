@@ -6,4 +6,4 @@ Just when you think you are well and truly lost, a glimmer of light catches your
 
 You scramble forward towards the exit as fast as your tired legs can carry you.
 
-- ☀ [Exit the cave](./scene8A)
+- ☀ [Exit the cave](./scene8A.md)
