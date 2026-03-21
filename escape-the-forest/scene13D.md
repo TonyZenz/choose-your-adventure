@@ -4,4 +4,4 @@ Using your new flashlight, you go out and find materials for a bed. You find a d
 
 ### Go to Sleep!
 
-- 💤 [Close Your Eyes](./scene14A.md) 
+- 💤 [Close Your Eyes](./scene14B.md) 
