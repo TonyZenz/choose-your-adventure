@@ -7,5 +7,5 @@ You stand there a moment, watching the current push past the rocks, steady but a
 
 Which way do you go?
 
-- 🌊 [Follow the river](./scene10A.md)
-- 🧗‍♀️ [Cross the river](./scene10B.md)
+- 🌊 [Follow the river](./scene10B.md)
+- 🧗‍♀️ [Cross the river](./scene10A.md)
