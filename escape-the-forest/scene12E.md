@@ -10,5 +10,5 @@ With your new weapon you feel confident and safe. You can now defend yourself. W
 Do you want to go out and hunt or get some rest?
 
 
-- ⚔ [Go Hunt](./scene13.md) 
-- 😴 [Get Some Rest](./scene13.md) 
+- ⚔ [Go Hunt](./scene13G.md) 
+- 😴 [Get Some Rest](./scene13H.md) 

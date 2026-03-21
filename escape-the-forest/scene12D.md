@@ -7,6 +7,6 @@ With the flashlight you look around where you are at. You can see at night! This
 
 Do you want to use your flashlight to find materials for a bed, go to sleep on the ground, or pull an all nighter?
 
-- 🔦 [Find Materials](./scene13.md) 
-- 💤 [Go to Sleep on Ground](./scene13.md) 
-- 🧟‍♂️ [Pull an All Nighter](./scene13.md) 
+- 🔦 [Find Materials](./scene13D.md) 
+- 💤 [Go to Sleep on Ground](./scene13E.md) 
+- 🧟‍♂️ [Pull an All Nighter](./scene13F.md) 
